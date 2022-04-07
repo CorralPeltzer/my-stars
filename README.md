@@ -81,8 +81,8 @@
 | 21 |  [wireshark](https://github.com/wireshark/wireshark) | Read-only mirror of Wireshark&#39;s Git repository at https://gitlab.com/wireshark/wireshark. GitHub won&#39;t let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab. | wireshark | 4259 |
 | 22 |  [msquic](https://github.com/microsoft/msquic) | Cross-platform, C implementation of the IETF QUIC protocol. | microsoft | 2709 |
 | 23 |  [wuffs](https://github.com/google/wuffs) | Wrangling Untrusted File Formats Safely | google | 3115 |
-| 24 |  [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. | ventoy | 33191 |
-| 25 |  [fluent-bit](https://github.com/fluent/fluent-bit) | Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows | fluent | 3480 |
+| 24 |  [Ventoy](https://github.com/ventoy/Ventoy) | A new bootable USB solution. | ventoy | 33193 |
+| 25 |  [fluent-bit](https://github.com/fluent/fluent-bit) | Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows | fluent | 3481 |
 | 26 |  [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | robertdavidgraham | 18756 |
 | 27 |  [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake&#39;s main development repository | HandBrake | 9673 |
 | 28 |  [rizin](https://github.com/rizinorg/rizin) | UNIX-like reverse engineering framework and command-line toolset. | rizinorg | 1331 |
@@ -94,13 +94,13 @@
 | 34 |  [brotli](https://github.com/google/brotli) | Brotli compression format | google | 10973 |
 | 35 |  [htop](https://github.com/htop-dev/htop) | htop - an interactive process viewer | htop-dev | 3521 |
 | 36 |  [pure-ftpd](https://github.com/jedisct1/pure-ftpd) | Pure FTP server | jedisct1 | 478 |
-| 37 |  [tor](https://github.com/torproject/tor) | unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ -- | torproject | 3020 |
+| 37 |  [tor](https://github.com/torproject/tor) | unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ -- | torproject | 3021 |
 | 38 |  [redis](https://github.com/redis/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. | redis | 54297 |
 | 39 |  [sandbox](https://github.com/cloudflare/sandbox) | Simple Linux seccomp rules without writing any code | cloudflare | 310 |
 | 40 |  [tpotce](https://github.com/telekom-security/tpotce) | 🍯 T-Pot - The All In One Honeypot Platform 🐝 | telekom-security | 3512 |
 | 41 |  [ioping](https://github.com/koct9i/ioping) | simple disk I/0 latency measuring tool | koct9i | 804 |
 | 42 |  [yara](https://github.com/VirusTotal/yara) | The pattern matching swiss knife | VirusTotal | 5535 |
-| 43 |  [curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features | curl | 24579 |
+| 43 |  [curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features | curl | 24580 |
 | 44 |  [radare2](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework and command-line toolset | radareorg | 16056 |
 | 45 |  [FTL](https://github.com/pi-hole/FTL) | The Pi-hole FTL engine | pi-hole | 1001 |
 | 46 |  [goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | allinurl | 14558 |
@@ -111,7 +111,7 @@
 ## C#
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | chocolatey | 8140 |
+| 1 |  [choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | chocolatey | 8141 |
 | 2 |  [dlss-swapper](https://github.com/beeradmoore/dlss-swapper) |  | beeradmoore | 451 |
 | 3 |  [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! | PowerShell | 32804 |
 | 4 |  [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | Attack Surface Analyzer can help you analyze your operating system&#39;s security configuration for changes during software installation. | microsoft | 2280 |
@@ -150,12 +150,12 @@
 | 23 |  [packJPG](https://github.com/packjpg/packJPG) | A compression program for further compressing JPEG image files | packjpg | 128 |
 | 24 |  [lepton](https://github.com/dropbox/lepton) | Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%. | dropbox | 4943 |
 | 25 |  [ClickHouse](https://github.com/ClickHouse/ClickHouse) | ClickHouse® is a free analytics DBMS for big data | ClickHouse | 23016 |
-| 26 |  [winget-cli](https://github.com/microsoft/winget-cli) | Windows Package Manager CLI (aka winget) | microsoft | 16643 |
+| 26 |  [winget-cli](https://github.com/microsoft/winget-cli) | Windows Package Manager CLI (aka winget) | microsoft | 16644 |
 | 27 |  [capnproto](https://github.com/capnproto/capnproto) | Cap&#39;n Proto serialization/RPC system - core tools and C++ library | capnproto | 8868 |
 | 28 |  [envoy](https://github.com/envoyproxy/envoy) | Cloud-native high-performance edge/middle/service proxy | envoyproxy | 19303 |
 | 29 |  [gImageReader](https://github.com/manisandro/gImageReader) | A Gtk/Qt front-end to tesseract-ocr. | manisandro | 1021 |
-| 30 |  [tesseract](https://github.com/tesseract-ocr/tesseract) | Tesseract Open Source OCR Engine (main repository) | tesseract-ocr | 44643 |
-| 31 |  [grpc](https://github.com/grpc/grpc) | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | grpc | 33872 |
+| 30 |  [tesseract](https://github.com/tesseract-ocr/tesseract) | Tesseract Open Source OCR Engine (main repository) | tesseract-ocr | 44644 |
+| 31 |  [grpc](https://github.com/grpc/grpc) | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | grpc | 33873 |
 | 32 |  [protobuf](https://github.com/protocolbuffers/protobuf) | Protocol Buffers - Google&#39;s data interchange format | protocolbuffers | 53759 |
 | 33 |  [bloaty](https://github.com/google/bloaty) | Bloaty McBloatface: a size profiler for binaries | google | 3683 |
 | 34 |  [terminal](https://github.com/microsoft/terminal) | The new Windows Terminal and the original Windows console host, all in the same place! | microsoft | 82150 |
@@ -206,7 +206,7 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [kwatch](https://github.com/abahmed/kwatch) | :eyes: monitor &amp; detect crashes in your Kubernetes(K8s) cluster instantly | abahmed | 575 |
+| 1 |  [kwatch](https://github.com/abahmed/kwatch) | :eyes: monitor &amp; detect crashes in your Kubernetes(K8s) cluster instantly | abahmed | 576 |
 | 2 |  [GoReSym](https://github.com/mandiant/GoReSym) | Go symbol recovery tool | mandiant | 72 |
 | 3 |  [fq](https://github.com/wader/fq) | jq for binary formats | wader | 3780 |
 | 4 |  [tfsec](https://github.com/aquasecurity/tfsec) | Security scanner for your Terraform code | aquasecurity | 4273 |
@@ -215,10 +215,10 @@
 | 7 |  [mizu](https://github.com/up9inc/mizu) | API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes | up9inc | 2513 |
 | 8 |  [database-lab-engine](https://github.com/postgres-ai/database-lab-engine) | Thin PostgreSQL clones. DLE provides blazing-fast database cloning to build powerful development, test, QA, staging environments. Follow to stay updated. | postgres-ai | 1152 |
 | 9 |  [hajimari](https://github.com/toboshii/hajimari) | Hajimari is a beautiful &amp; customizable browser startpage/dashboard with Kubernetes application discovery. | toboshii | 358 |
-| 10 |  [buildah](https://github.com/containers/buildah) | A tool that facilitates building OCI images. | containers | 5177 |
+| 10 |  [buildah](https://github.com/containers/buildah) | A tool that facilitates building OCI images. | containers | 5178 |
 | 11 |  [applicationset](https://github.com/argoproj/applicationset) | The ApplicationSet controller manages multiple Argo CD Applications as a single ApplicationSet unit, supporting deployments to large numbers of clusters, deployments of large monorepos, and enabling secure Application self-service. | argoproj | 495 |
 | 12 |  [autoscaler](https://github.com/kubernetes/autoscaler) | Autoscaling components for Kubernetes | kubernetes | 5509 |
-| 13 |  [k9s](https://github.com/derailed/k9s) | 🐶 Kubernetes CLI To Manage Your Clusters In Style! | derailed | 15883 |
+| 13 |  [k9s](https://github.com/derailed/k9s) | 🐶 Kubernetes CLI To Manage Your Clusters In Style! | derailed | 15884 |
 | 14 |  [krakend-ce](https://github.com/devopsfaith/krakend-ce) | KrakenD Community Edition. Make your binary of KrakenD API Gateway | devopsfaith | 553 |
 | 15 |  [tyk](https://github.com/TykTechnologies/tyk) | Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols | TykTechnologies | 7268 |
 | 16 |  [vitess](https://github.com/vitessio/vitess) | Vitess is a database clustering system for horizontal scaling of MySQL. | vitessio | 13807 |
@@ -270,7 +270,7 @@
 | 62 |  [tailscale](https://github.com/tailscale/tailscale) | The easiest, most secure way to use WireGuard and 2FA. | tailscale | 7121 |
 | 63 |  [podman](https://github.com/containers/podman) | Podman: A tool for managing OCI containers and pods. | containers | 13301 |
 | 64 |  [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management | hashicorp | 23879 |
-| 65 |  [drone](https://github.com/harness/drone) | Drone is a Container-Native, Continuous Delivery Platform | harness | 24764 |
+| 65 |  [drone](https://github.com/harness/drone) | Drone is a Container-Native, Continuous Delivery Platform | harness | 24765 |
 | 66 |  [kine](https://github.com/k3s-io/kine) | Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd. | k3s-io | 645 |
 | 67 |  [metrics-server](https://github.com/kubernetes-sigs/metrics-server) | Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines. | kubernetes-sigs | 3675 |
 | 68 |  [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes | k3s-io | 19611 |
@@ -323,7 +323,7 @@
 | 115 |  [gOSINT](https://github.com/Nhoya/gOSINT) | OSINT Swiss Army Knife | Nhoya | 464 |
 | 116 |  [mkcert](https://github.com/FiloSottile/mkcert) | A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. | FiloSottile | 34546 |
 | 117 |  [rita](https://github.com/activecm/rita) | Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis. | activecm | 1851 |
-| 118 |  [trufflehog](https://github.com/trufflesecurity/trufflehog) | Find credentials all over the place | trufflesecurity | 7302 |
+| 118 |  [trufflehog](https://github.com/trufflesecurity/trufflehog) | Find credentials all over the place | trufflesecurity | 7305 |
 | 119 |  [osmedeus](https://github.com/j3ssie/osmedeus) | A Workflow Engine for Offensive Security | j3ssie | 3751 |
 | 120 |  [Amass](https://github.com/OWASP/Amass) | In-depth Attack Surface Mapping and Asset Discovery | OWASP | 6843 |
 | 121 |  [subfinder](https://github.com/projectdiscovery/subfinder) | Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing. | projectdiscovery | 5071 |
@@ -387,14 +387,14 @@
 | 23 |  [spring-boot](https://github.com/spring-projects/spring-boot) | Spring Boot | spring-projects | 60489 |
 | 24 |  [antlr4](https://github.com/antlr/antlr4) | ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. | antlr | 11884 |
 | 25 |  [grpc-java](https://github.com/grpc/grpc-java) | The Java gRPC implementation. HTTP/2 based RPC | grpc | 9574 |
-| 26 |  [kafka](https://github.com/apache/kafka) | Mirror of Apache Kafka | apache | 21585 |
+| 26 |  [kafka](https://github.com/apache/kafka) | Mirror of Apache Kafka | apache | 21586 |
 | 27 |  [elasticsearch](https://github.com/elastic/elasticsearch) | Free and Open, Distributed, RESTful Search Engine | elastic | 59113 |
 | 28 |  [termux-app](https://github.com/termux/termux-app) | Termux - a terminal emulator application for Android OS extendible by variety of packages. | termux | 11957 |
 | 29 |  [GmsCore](https://github.com/microg/GmsCore) | Free implementation of Play Services | microg | 4668 |
 | 30 |  [bazel](https://github.com/bazelbuild/bazel) | a fast, scalable, multi-language and extensible build system | bazelbuild | 18399 |
 | 31 |  [jdk](https://github.com/openjdk/jdk) | JDK main-line development | openjdk | 12671 |
-| 32 |  [tinkerpop](https://github.com/apache/tinkerpop) | Apache TinkerPop - a graph computing framework | apache | 1494 |
-| 33 |  [zaproxy](https://github.com/zaproxy/zaproxy) | The OWASP ZAP core project | zaproxy | 9409 |
+| 32 |  [tinkerpop](https://github.com/apache/tinkerpop) | Apache TinkerPop - a graph computing framework | apache | 1495 |
+| 33 |  [zaproxy](https://github.com/zaproxy/zaproxy) | The OWASP ZAP core project | zaproxy | 9410 |
 | 34 |  [pulsar](https://github.com/apache/pulsar) | Apache Pulsar - distributed pub-sub messaging system | apache | 10595 |
 | 35 |  [janusgraph](https://github.com/JanusGraph/janusgraph) | JanusGraph: an open-source, distributed graph database | JanusGraph | 4386 |
 | 36 |  [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | NationalSecurityAgency | 31997 |
@@ -410,7 +410,7 @@
 | 1 |  [interactive_latencies](https://github.com/colin-scott/interactive_latencies) | Jeff Dean&#39;s latency numbers plotted over time | colin-scott | 1582 |
 | 2 |  [buster](https://github.com/dessant/buster) | Captcha solver extension for humans | dessant | 4630 |
 | 3 |  [scan-action](https://github.com/anchore/scan-action) | Anchore container analysis and scan provided as a GitHub Action | anchore | 119 |
-| 4 |  [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagram and flowchart from text in a similar manner as markdown | mermaid-js | 45984 |
+| 4 |  [mermaid](https://github.com/mermaid-js/mermaid) | Generation of diagram and flowchart from text in a similar manner as markdown | mermaid-js | 45985 |
 | 5 |  [uBlock](https://github.com/gorhill/uBlock) | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. | gorhill | 29788 |
 | 6 |  [sha256algorithm](https://github.com/dmarman/sha256algorithm) | Sha256 Algorithm Explained | dmarman | 1014 |
 | 7 |  [datadog-to-terraform](https://github.com/laurmurclar/datadog-to-terraform) | Converts Datadog resource JSON into Terraform alarm code. | laurmurclar | 169 |
@@ -425,7 +425,7 @@
 | 16 |  [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | The OpenAPI Specification Repository | OAI | 23451 |
 | 17 |  [Addon](https://github.com/ClearURLs/Addon) | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy. | ClearURLs | 3067 |
 | 18 |  [swagger-ui](https://github.com/swagger-api/swagger-ui) | Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. | swagger-api | 21837 |
-| 19 |  [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage. | eidam | 791 |
+| 19 |  [cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) | Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage. | eidam | 792 |
 | 20 |  [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) | Integrate external secret management systems with Kubernetes | external-secrets | 2524 |
 | 21 |  [github1s](https://github.com/conwnet/github1s) | One second to read GitHub code with VS Code. | conwnet | 20806 |
 | 22 |  [jitsi-meet](https://github.com/jitsi/jitsi-meet) | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. | jitsi | 17869 |
@@ -528,7 +528,7 @@
 | 3 |  [software-architecture-books](https://github.com/mhadidg/software-architecture-books) | A comprehensive list of books on Software Architecture. | mhadidg | 6282 |
 | 4 |  [api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines | microsoft | 18983 |
 | 5 |  [tag-observability](https://github.com/cncf/tag-observability) | Technical Advisory Group for Observability 🔭⚙️ | cncf | 280 |
-| 6 |  [awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) | A curated list of amazingly awesome Burp Extensions | snoopysecurity | 2079 |
+| 6 |  [awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions) | A curated list of amazingly awesome Burp Extensions | snoopysecurity | 2080 |
 | 7 |  [proposal](https://github.com/grpc/proposal) | A repository for gRFCs | grpc | 497 |
 | 8 |  [probe](https://github.com/ooni/probe) | OONI Probe network measurement tool for detecting internet censorship | ooni | 653 |
 | 9 |  [lucene-solr](https://github.com/apache/lucene-solr) | Apache Lucene and Solr open-source search software | apache | 4251 |
@@ -570,7 +570,7 @@
 | 1 |  [SmokePing](https://github.com/oetiker/SmokePing) | The Active Monitoring System | oetiker | 835 |
 | 2 |  [ddclient](https://github.com/ddclient/ddclient) | This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on &#39;Dynamic DNS Network Services&#39; free DNS service. It currently supports a lot of different routers and a few different services. | ddclient | 1097 |
 | 3 |  [FlameGraph](https://github.com/brendangregg/FlameGraph) | Stack trace visualizer | brendangregg | 12764 |
-| 4 |  [slipstream](https://github.com/samyk/slipstream) | NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website | samyk | 1691 |
+| 4 |  [slipstream](https://github.com/samyk/slipstream) | NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website | samyk | 1692 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -587,7 +587,7 @@
 ## Python
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [certbot](https://github.com/certbot/certbot) | Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. | certbot | 28803 |
+| 1 |  [certbot](https://github.com/certbot/certbot) | Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. | certbot | 28804 |
 | 2 |  [python-build-standalone](https://github.com/indygreg/python-build-standalone) | Produce redistributable builds of Python | indygreg | 384 |
 | 3 |  [wagtail](https://github.com/wagtail/wagtail) | A Django content management system focused on flexibility and user experience | wagtail | 11823 |
 | 4 |  [awx](https://github.com/ansible/awx) | AWX Project | ansible | 10840 |
@@ -605,7 +605,7 @@
 | 16 |  [vivisect](https://github.com/vivisect/vivisect) |  | vivisect | 745 |
 | 17 |  [top500](https://github.com/dlenski/top500) | Scrape+plot TOP500 data for Wikipedia graphs | dlenski | 6 |
 | 18 |  [pyscaffold](https://github.com/pyscaffold/pyscaffold) | 🛠 Python project template generator with batteries included | pyscaffold | 1436 |
-| 19 |  [code2flow](https://github.com/scottrogowski/code2flow) | Pretty good call graphs for dynamic languages | scottrogowski | 2435 |
+| 19 |  [code2flow](https://github.com/scottrogowski/code2flow) | Pretty good call graphs for dynamic languages | scottrogowski | 2436 |
 | 20 |  [sh](https://github.com/amoffat/sh) | Python process launching | amoffat | 6141 |
 | 21 |  [redash](https://github.com/getredash/redash) | Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data. | getredash | 20828 |
 | 22 |  [exodus](https://github.com/intoli/exodus) | Painless relocation of Linux binaries–and all of their dependencies–without containers. | intoli | 2620 |
@@ -613,7 +613,7 @@
 | 24 |  [django](https://github.com/django/django) | The Web framework for perfectionists with deadlines. | django | 63315 |
 | 25 |  [patroni](https://github.com/zalando/patroni) | A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes | zalando | 4628 |
 | 26 |  [aws-cli](https://github.com/aws/aws-cli) | Universal Command Line Interface for Amazon Web Services | aws | 12222 |
-| 27 |  [Gooey](https://github.com/chriskiehl/Gooey) | Turn (almost) any Python command line program into a full GUI application with one line | chriskiehl | 15589 |
+| 27 |  [Gooey](https://github.com/chriskiehl/Gooey) | Turn (almost) any Python command line program into a full GUI application with one line | chriskiehl | 15590 |
 | 28 |  [semiphemeral](https://github.com/micahflee/semiphemeral) | Automatically delete your old tweets, except for the ones you want to keep | micahflee | 605 |
 | 29 |  [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models. | commaai | 33871 |
 | 30 |  [elasticsearch-py](https://github.com/elastic/elasticsearch-py) | Official Elasticsearch client library for Python | elastic | 3595 |
@@ -632,7 +632,7 @@
 | 43 |  [cf-stats](https://github.com/cdnjs/cf-stats) | 📈 Monthly usage statistics from Cloudflare for the cdnjs.cloudflare.com domain - The #1 free and open source CDN built to make life easier for developers. | cdnjs | 27 |
 | 44 |  [flare-floss](https://github.com/mandiant/flare-floss) | FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware. | mandiant | 2113 |
 | 45 |  [ntdiff](https://github.com/ntdiff/ntdiff) |  | ntdiff | 79 |
-| 46 |  [collisions](https://github.com/corkami/collisions) | Hash collisions and their exploitations | corkami | 1099 |
+| 46 |  [collisions](https://github.com/corkami/collisions) | Hash collisions and their exploitations | corkami | 1100 |
 | 47 |  [cryptography](https://github.com/pyca/cryptography) | cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. | pyca | 4692 |
 | 48 |  [microk8s](https://github.com/canonical/microk8s) | MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. | canonical | 6362 |
 | 49 |  [atheris](https://github.com/google/atheris) |  | google | 942 |
@@ -642,7 +642,7 @@
 | 53 |  [pip](https://github.com/pypa/pip) | The Python package installer | pypa | 7869 |
 | 54 |  [virtualenv](https://github.com/pypa/virtualenv) | Virtual Python Environment builder | pypa | 4121 |
 | 55 |  [prophet](https://github.com/facebook/prophet) | Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. | facebook | 14266 |
-| 56 |  [cpython](https://github.com/python/cpython) | The Python programming language | python | 43853 |
+| 56 |  [cpython](https://github.com/python/cpython) | The Python programming language | python | 43854 |
 | 57 |  [opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) | OpenTelemetry Python API and SDK | open-telemetry | 861 |
 | 58 |  [setuptools](https://github.com/pypa/setuptools) | Official project repository for the Setuptools build system | pypa | 1609 |
 | 59 |  [msgpack-python](https://github.com/msgpack/msgpack-python) | MessagePack serializer implementation for Python msgpack.org[Python] | msgpack | 1587 |
@@ -728,7 +728,7 @@
 | 139 |  [Magnet2Torrent](https://github.com/danfolkes/Magnet2Torrent) | This will convert a magnet link into a .torrent file | danfolkes | 556 |
 | 140 |  [bencoder](https://github.com/utdemir/bencoder) | A simple bencode decoder-encoder library in pure Python. | utdemir | 26 |
 | 141 |  [errbot](https://github.com/errbotio/errbot) | Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation. | errbotio | 2664 |
-| 142 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 108330 |
+| 142 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 108331 |
 | 143 |  [flask-talisman](https://github.com/GoogleCloudPlatform/flask-talisman) | HTTP security headers for Flask | GoogleCloudPlatform | 800 |
 | 144 |  [werkzeug](https://github.com/pallets/werkzeug) | The comprehensive WSGI web application library. | pallets | 6026 |
 | 145 |  [pipreqs](https://github.com/bndr/pipreqs) | pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward. | bndr | 4154 |
@@ -740,7 +740,7 @@
 | 151 |  [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | pallets | 58501 |
 | 152 |  [flaskex](https://github.com/anfederico/flaskex) | Simple flask example for quick prototypes and small applications | anfederico | 732 |
 | 153 |  [mako](https://github.com/zzzeek/mako) | Mirror of Mako Templates for Python - gitthub main is now at https://github.com/sqlalchemy/mako | zzzeek | 167 |
-| 154 |  [requests](https://github.com/psf/requests) | A simple, yet elegant, HTTP library. | psf | 47190 |
+| 154 |  [requests](https://github.com/psf/requests) | A simple, yet elegant, HTTP library. | psf | 47191 |
 | 155 |  [bottle](https://github.com/bottlepy/bottle) | bottle.py is a fast and simple micro-framework for python web-applications. | bottlepy | 7582 |
 
 **[⬆ Back to Index](#-contents)**
@@ -750,14 +750,14 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [rails](https://github.com/rails/rails) | Ruby on Rails | rails | 50473 |
 | 2 |  [rubygems](https://github.com/rubygems/rubygems) | Library packaging and distribution for Ruby. | rubygems | 3000 |
-| 3 |  [homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default formulae for the missing package manager for macOS (or Linux) | Homebrew | 11051 |
+| 3 |  [homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default formulae for the missing package manager for macOS (or Linux) | Homebrew | 11052 |
 | 4 |  [explore](https://github.com/github/explore) | Community-curated topic and collection pages on GitHub | github | 3069 |
 | 5 |  [logstash](https://github.com/elastic/logstash) | Logstash - transport and process your logs, events, or other data | elastic | 12776 |
 | 6 |  [linguist](https://github.com/github/linguist) | Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request! | github | 9696 |
 | 7 |  [vagrant](https://github.com/hashicorp/vagrant) | Vagrant is a tool for building and distributing development environments. | hashicorp | 23593 |
 | 8 |  [puppet](https://github.com/puppetlabs/puppet) | Server automation framework and application | puppetlabs | 6503 |
 | 9 |  [sha256-animation](https://github.com/in3rsha/sha256-animation) | Animation of the SHA-256 hash function in your terminal. | in3rsha | 3185 |
-| 10 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 31652 |
+| 10 |  [brew](https://github.com/Homebrew/brew) | 🍺 The missing package manager for macOS (or Linux) | Homebrew | 31653 |
 | 11 |  [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf.  Your agents are standing by! | huginn | 35327 |
 
 **[⬆ Back to Index](#-contents)**
@@ -854,7 +854,7 @@
 | 18 |  [htrace.sh](https://github.com/trimstray/htrace.sh) | My simple Swiss Army knife for http/https troubleshooting and profiling. | trimstray | 3497 |
 | 19 |  [streisand](https://github.com/StreisandEffect/streisand) | Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists. | StreisandEffect | 22749 |
 | 20 |  [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) | 🎬 A curated list of movies every hacker &amp; cyberpunk must watch. | k4m4 | 8973 |
-| 21 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 35671 |
+| 21 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 35673 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -911,7 +911,7 @@
 | 2 |  [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) | A browser extension to improve TweetDeck with a lot of features | eramdam | 917 |
 | 3 |  [kaitai_struct_webide](https://github.com/kaitai-io/kaitai_struct_webide) | Online editor / visualizer for Kaitai Struct .ksy files | kaitai-io | 223 |
 | 4 |  [tabix](https://github.com/tabixio/tabix) | Tabix.io UI | tabixio | 1570 |
-| 5 |  [kafka-ui](https://github.com/provectus/kafka-ui) | Open-Source Web GUI for Apache Kafka Management | provectus | 2517 |
+| 5 |  [kafka-ui](https://github.com/provectus/kafka-ui) | Open-Source Web GUI for Apache Kafka Management | provectus | 2518 |
 | 6 |  [opstrace](https://github.com/opstrace/opstrace) | The Open Source Observability Distribution | opstrace | 1174 |
 | 7 |  [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) | Signal — Private Messenger for Windows, Mac, and Linux | signalapp | 12318 |
 | 8 |  [checkout](https://github.com/actions/checkout) | Action for checking out a repo | actions | 2519 |
@@ -927,7 +927,7 @@
 | 18 |  [kibana](https://github.com/elastic/kibana) | Your window into the Elastic Stack | elastic | 17277 |
 | 19 |  [element-web](https://github.com/vector-im/element-web) | A glossy Matrix collaboration client for the web. | vector-im | 8114 |
 | 20 |  [hub](https://github.com/artifacthub/hub) | Find, install and publish Kubernetes packages | artifacthub | 843 |
-| 21 |  [lens](https://github.com/lensapp/lens) | Lens - The way the world runs Kubernetes | lensapp | 17342 |
+| 21 |  [lens](https://github.com/lensapp/lens) | Lens - The way the world runs Kubernetes | lensapp | 17343 |
 | 22 |  [grafana](https://github.com/grafana/grafana) | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. | grafana | 47893 |
 | 23 |  [desktop](https://github.com/desktop/desktop) | Simple collaboration from your desktop | desktop | 14433 |
 | 24 |  [bloomrpc](https://github.com/bloomrpc/bloomrpc) | GUI Client for GRPC Services | bloomrpc | 7812 |
@@ -935,7 +935,7 @@
 | 26 |  [ghaction-docker-buildx](https://github.com/crazy-max/ghaction-docker-buildx) | :octocat: GitHub Action to set up Docker Buildx | crazy-max | 221 |
 | 27 |  [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. | microsoft | 36337 |
 | 28 |  [Electorrent](https://github.com/tympanix/Electorrent) | A remote control client for µTorrent, qBittorrent, rTorrent, Transmission, Synology &amp; Deluge | tympanix | 715 |
-| 29 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2022 | kamranahmedse | 191057 |
+| 29 |  [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | Roadmap to becoming a developer in 2022 | kamranahmedse | 191059 |
 
 **[⬆ Back to Index](#-contents)**
 
