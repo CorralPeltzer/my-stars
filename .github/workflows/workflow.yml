@@ -2,8 +2,9 @@ name: 'Update by stargazed'
 # This workflow runs at 00:30 everyday
 on:
   schedule:
-    -
-      cron: '30 0 * * *'
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
 jobs:
   build:
     name: 'stargazed update'
@@ -13,7 +14,7 @@ jobs:
         name: 'Use GitHub Actions'
         uses: actions/checkout@v6
       -
-        name: 'Use Node.js 10.x'
+        name: 'Use Node.js'
         uses: actions/setup-node@v6
         with:
           node-version: 24.x
